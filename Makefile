@@ -24,7 +24,7 @@ PROJECT := states
 #
 
 # list of all source directories used by this project
-VPATH := . \
+VPATH := src/ \
 
 # list of all include directories needed by this project
 INCLUDES := -I. \
