@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [0.1.0] - 2022-03-28
 
 ### Added
-- Bootstrap the initial release of timsort-odin
+- Bootstrap the initial release of qpc-hsm-example
 
-[Unreleased]: https://github.com/massivelivefun/timsort-odin/compare/0.1.0...HEAD
-[0.1.0]: https://github.com/massivelivefun/timsort-odin/releases/tag/0.1.0
+[Unreleased]: https://github.com/massivelivefun/qpc-hsm-example/compare/0.1.0...HEAD
+[0.1.0]: https://github.com/massivelivefun/qpc-hsm-example/releases/tag/0.1.0
