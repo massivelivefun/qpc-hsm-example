@@ -1,4 +1,7 @@
 build/
 build_rel/
 build_spy/
+
+# File system
 .DS_Store
+desktop.ini
